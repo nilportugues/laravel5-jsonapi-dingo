@@ -1,0 +1,37 @@
+{
+    "name": "nilportugues/laravel5-json-api-dingo",
+    "type": "library",
+    "description": "Laravel 5 JSON API Mappings for Dingo API",
+    "keywords": ["dingo", "laravel", "laravel5", "lumen", "json", "api", "jsonapi", "serializer", "transformer", "psr7", "response"],
+    "homepage": "http://nilportugues.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nil Portugués Calderó",
+            "email": "contact@nilportugues.com",
+            "role": "Project Lead Developer"
+        }
+    ],
+    "require": {
+        "nilportugues/laravel5-json-api": "^2.4"
+    },
+    "require-dev": {
+        "laravel/laravel": "5.*",
+        "dingo/api": "1.0.*@dev",
+        "phpunit/phpunit": "4.*",
+        "friendsofphp/php-cs-fixer": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "NilPortugues\\Laravel5\\JsonApiDingo\\" : "src/NilPortugues/Laravel5/JsonApiDingo/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "NilPortugues\\Tests\\" : "tests/NilPortugues/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
