@@ -374,9 +374,9 @@ class OrdersTransformer implements JsonApiMapping
 ```
 
 
-#### Step 4: Usage
+#### Usage
 
-Create file `config/jsonapi.php`. This file should return an array returning all the class mappings.
+Open `config/jsonapi.php`. This file should return an array returning all the class mappings.
 
 
 ```php
