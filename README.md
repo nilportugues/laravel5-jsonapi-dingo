@@ -2,7 +2,7 @@
 
 
 
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nilportugues/laravel5-jsonapi-dingo/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nilportugues/laravel5-jsonapi-dingo/?branch=master) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/c4fb1b65-e649-464f-b78c-e5802743a78f/mini.png)](https://insight.sensiolabs.com/projects/c4fb1b65-e649-464f-b78c-e5802743a78f) 
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nilportugues/laravel5-jsonapi-dingo/badges/quality-score.png??b=master)](https://scrutinizer-ci.com/g/nilportugues/laravel5-jsonapi-dingo/?branch=master) [![SensioLabsInsight](https://insight.sensiolabs.com/projects/c4fb1b65-e649-464f-b78c-e5802743a78f/mini.png?)](https://insight.sensiolabs.com/projects/c4fb1b65-e649-464f-b78c-e5802743a78f) 
 [![Latest Stable Version](https://poser.pugx.org/nilportugues/laravel5-json-api-dingo/v/stable)](https://packagist.org/packages/nilportugues/laravel5-json-api-dingo) 
 [![Total Downloads](https://poser.pugx.org/nilportugues/laravel5-json-api-dingo/downloads)](https://packagist.org/packages/nilportugues/laravel5-json-api-dingo) 
 [![License](https://poser.pugx.org/nilportugues/laravel5-json-api-dingo/license)](https://packagist.org/packages/nilportugues/laravel5-json-api-dingo) 
