@@ -1,7 +1,7 @@
 {
     "name": "nilportugues/laravel5-json-api-dingo",
     "type": "library",
-    "description": "Laravel 5 JSON API Mappings for Dingo API",
+    "description": "Laravel5 JSONAPI and Dingo together to build APIs fast",
     "keywords": ["dingo", "laravel", "laravel5", "lumen", "json", "api", "jsonapi", "serializer", "transformer", "psr7", "response"],
     "homepage": "http://nilportugues.com",
     "license": "MIT",
