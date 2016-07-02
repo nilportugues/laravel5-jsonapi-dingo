@@ -50,8 +50,6 @@ Contributions to the package are always welcome!
 * Report any bugs or issues you find on the [issue tracker](https://github.com/nilportugues/laravel5-jsonapi-dingo/issues/new).
 * You can grab the source code at the package's [Git repository](https://github.com/nilportugues/laravel5-jsonapi-dingo).
 
-
-<br>
 ## Support
 
 Get in touch with me using one of the following means:
@@ -59,7 +57,6 @@ Get in touch with me using one of the following means:
  - Emailing me at <contact@nilportugues.com>
  - Opening an [Issue](https://github.com/nilportugues/laravel5-jsonapi-dingo/issues/new)
 
-<br>
 ## Authors
 
 * [Nil Portugués Calderó](http://nilportugues.com)
