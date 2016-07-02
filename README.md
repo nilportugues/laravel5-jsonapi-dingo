@@ -17,6 +17,12 @@ By doing this you get the automatic formatting of the JSON API mappings and the 
 - Package provides a full implementation of the **[JSON API](https://github.com/json-api/json-api)** specification, and is **featured** on the official site!
 - A **JSON API Transformer** that will allow you to convert any mapped object into a valid JSON API resource.
 - Controller boilerplate to write a fully compiliant **JSON API Server** using your **exisiting Eloquent Models**.
+- **All of Dingo's features are supported, that is:**
+    - Multiple Authentication Adapters
+    - API Versioning
+    - Rate Limiting
+    - Internal Requests
+    - API Blueprint Documentation
 
 ## Installation
 
