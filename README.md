@@ -28,6 +28,12 @@ Use [Composer](https://getcomposer.org) to install the package:
 $ composer require nilportugues/laravel5-json-api-dingo
 ```
 
+Now run the following artisan command: 
+
+```
+php artisan vendor:publish
+```
+
 ## Configuration
 
 Open up `config/app.php` and add the following line under `providers` array:
