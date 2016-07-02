@@ -19,3 +19,15 @@ Use [Composer](https://getcomposer.org) to install the package:
 ```
 $ composer require nilportugues/laravel5-json-api-dingo
 ```
+
+## Configuration
+
+Open up `config/app.php` and add the following line under `providers` array:
+
+```php
+'providers' => [
+    //...
+    NilPortugues\Laravel5\JsonApiDingo\Laravel5JsonApiDingoServiceProvider::class,
+],
+```
+
