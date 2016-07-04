@@ -6,6 +6,20 @@
 [![License](https://poser.pugx.org/nilportugues/laravel5-json-api-dingo/license)](https://packagist.org/packages/nilportugues/laravel5-json-api-dingo) 
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://paypal.me/nilportugues)
 
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [JsonApiController](#jsonapicontroller)
+- [Examples: Consuming the API](#examples-consuming-the-api)
+  - [GET](#get)
+  - [POST](#post)
+  - [PUT](#put)
+  - [PATCH](#patch)
+  - [DELETE](#delete)
+- [GET Query Params: include, fields, sort and page](#get-query-params-include-fields-sort-and-page)
+- [POST/PUT/PATCH with Relationships](#postputpatch-with-relationships)
+- [Custom Response Headers](#custom-response-headers)
+- [Common Errors and Solutions](#common-errors-and-solutions)
 
 This package makes [Laravel 5 JSON API Server Package](https://github.com/nilportugues/laravel5-jsonapi)  and [Dingo](https://github.com/dingo/api) play well together by using Dingo's API routing system instead of Laravel's.
 
@@ -1266,6 +1280,13 @@ class EmployeesController extends JsonApiController
 
 Now all supported actions will include the added custom headers.
 
+
+# Common Errors and Solutions
+
+### "Undefined index: @type"
+
+This usually happens because you did not write the namespace of your `Mapping` in `config/jsonapi.php`. 
+Double check, if missing, add it and refresh the resource. It should be gone!
 
 ## Contribute
 
